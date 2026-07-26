@@ -153,7 +153,6 @@ JOIN query combining orders and books to find the top-selling title.
 ![Most ordered book](query_most_ordered_book.png)
 
 ---
-
 ### Query: Window function example
 Advanced analytical query using window functions (e.g. RANK/ROW_NUMBER) for ranking or running totals.
 ![Window function example](query_window_function_example.png)
