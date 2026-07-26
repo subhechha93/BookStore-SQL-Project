@@ -128,6 +128,19 @@ Through this project, I practiced:
 - Solving business problems using SQL
 - Organizing a GitHub project
 
+# 📸 Project Screenshots
+
+Screenshots of key SQL queries and their outputs from pgAdmin 4.
+
+---
+
+### Query 8: Orders with total amount above $20
+![Orders above $20](query08_orders_above_20.png)
+
+---
+
+### Query 5: Customers who placed at least 2 orders
+![Customers with multiple orders](query05_customers_multiple_orders.png)
 ---
 
 ## 👩‍💻 Author
