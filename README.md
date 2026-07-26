@@ -128,20 +128,35 @@ Through this project, I practiced:
 - Solving business problems using SQL
 - Organizing a GitHub project
 
+
+
 # 📸 Project Screenshots
 
 Screenshots of key SQL queries and their outputs from pgAdmin 4.
 
 ---
 
-### Query 8: Orders with total amount above $20
+### Query: Orders with total amount above $20
+Basic filtering query using WHERE.
 ![Orders above $20](query08_orders_above_20.png)
 
 ---
 
-### Query 5: Customers who placed at least 2 orders
+### Query: Customers who placed at least 2 orders
+Aggregate query using GROUP BY and HAVING.
 ![Customers with multiple orders](query05_customers_multiple_orders.png)
+
 ---
+
+### Query: Most frequently ordered book
+JOIN query combining orders and books to find the top-selling title.
+![Most ordered book](query_most_ordered_book.png)
+
+---
+
+### Query: Window function example
+Advanced analytical query using window functions (e.g. RANK/ROW_NUMBER) for ranking or running totals.
+![Window function example](query_window_function_example.png)
 
 ## 👩‍💻 Author
 
